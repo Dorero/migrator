@@ -3,7 +3,7 @@
 Migrator is a utility that makes working with migrations easier. It adds basic operations such as create table, migrate, rollback, rollback all. Supports only postgres.
 
 ## Install
-curl -fsSL https://raw.githubusercontent.com/Dorero/migrator/main/install.sh | bash
+```curl -fsSL https://raw.githubusercontent.com/Dorero/migrator/main/install.sh | bash```
 
 
 ## From source code
